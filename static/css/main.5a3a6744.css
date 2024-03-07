@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.active{border-bottom:1px solid blue;color:blue!important}.animated{animation:up-down 2s ease-in-out infinite alternate-reverse both}@keyframes up-down{0%{transform:translateY(10px)}to{transform:translateY(-10px)}}
+/*# sourceMappingURL=main.5a3a6744.css.map*/
